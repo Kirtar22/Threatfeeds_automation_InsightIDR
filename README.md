@@ -31,3 +31,5 @@ Links:
 [AlienVault API Documentation](https://otx.alienvault.com/api)
 
 [InsightIDR API Documentation](https://help.rapid7.com/insightidr/en-us/api/v1/docs.html#)
+
+Many threatfeeds(like abuse.ch) provide the treatfeeds in a txt format that ca be converted in to CSV and uploaded to IDR in a specific threat. I have updated the repo with the CSV pull and push script. 
