@@ -15,7 +15,7 @@ Pull script pulls the data (via API) from OTX's user_AlientVault "Collection" in
 
 Push script pushes these indicators (via API) to InsightIDR in a specific Threat that we have mentioned in the command. 
 
-Many threatfeeds(like abuse.ch) provide the treatfeeds in a txt format that ca be converted in to CSV and uploaded to IDR in a specific threat. I have updated the repo with the CSV pull and push script. 
+**Many threatfeeds(like abuse.ch) provide the treatfeeds in a txt format that ca be converted in to CSV and uploaded to IDR in a specific threat. I have updated the repo with the CSV pull and push script.**
 
 Notes:
 
